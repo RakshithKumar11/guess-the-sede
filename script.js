@@ -12,7 +12,7 @@ function myfun(){
                 break;
             }
             else{
-                document.getElementById('guess').innerHTML = "Wrong Guess";
+                document.getElementById('guess').innerHTML = "Wrong Guess!";
                 document.getElementById('sound1').play();
             }
         }
