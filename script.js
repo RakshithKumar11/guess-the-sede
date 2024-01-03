@@ -8,10 +8,12 @@ function myfun(){
 
             if( sede[i].toString() === a){
                 document.getElementById('guess').innerHTML = "Yes, You guessed it right!"
+                document.getElementById('sound').play();
                 break;
             }
             else{
                 document.getElementById('guess').innerHTML = "Wrong Guess";
+                document.getElementById('sound1').play();
             }
         }
 
