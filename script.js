@@ -1,4 +1,4 @@
-    const sede = ["adarsh", "adhi", "adarsha", "adhu", "prems", "prems thamma"];
+    const sede = ["adarsh", "adhi", "adarsha", "adhu", "prems", "prems thamma", "aadharsh", "aadarsh", "adharsh", "aadarshaa", "cover drive", "dear", "dr prems thamma"];
 
 function myfun(){
 
