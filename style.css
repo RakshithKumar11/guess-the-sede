@@ -7,4 +7,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 60px;
+}
+input{
+    font-size: 40px;
+}
+button{
+    font-size: 30px;
+    padding: 10px;
 }
